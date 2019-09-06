@@ -1,5 +1,7 @@
 # kmapper map file
 
+This is the json file used for the visualization shown on https://kmapper.herokuapp.com/articles/463950. 
+
 ```json
 {
   "kmap": "10.5038/1936-4660.9.2.1",
